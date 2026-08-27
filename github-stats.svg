@@ -9,7 +9,7 @@
 <rect x="34" y="104" width="160" height="112" rx="12" fill="#161B22" stroke="#30363D"/>
 <rect x="34" y="104" width="160" height="4" rx="2" fill="#58A6FF"/>
 <text x="50" y="135" fill="#8B949E" font-family="Arial,DejaVu Sans,sans-serif" font-size="11px" font-weight="700" text-anchor="start">PUBLIC REPOSITORIES</text>
-<text x="50" y="174" fill="#F0F6FC" font-family="Arial,DejaVu Sans,sans-serif" font-size="25px" font-weight="700" text-anchor="start">4</text>
+<text x="50" y="174" fill="#F0F6FC" font-family="Arial,DejaVu Sans,sans-serif" font-size="25px" font-weight="700" text-anchor="start">3</text>
 <text x="50" y="198" fill="#8B949E" font-family="Arial,DejaVu Sans,sans-serif" font-size="12px" font-weight="400" text-anchor="start">public data</text>
 <rect x="222" y="104" width="160" height="112" rx="12" fill="#161B22" stroke="#30363D"/>
 <rect x="222" y="104" width="160" height="4" rx="2" fill="#F2CC60"/>
