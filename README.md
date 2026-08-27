@@ -16,13 +16,13 @@
 
 I am building my software engineering foundation through practical projects and structured problem solving. I enjoy breaking complex problems into smaller, understandable parts, then turning the result into code that I can test, explain, and improve.
 
-My public work currently shows three connected parts of that journey: a local-first portfolio platform, a C++ and algorithms learning roadmap, and an academic/team web application for an electronics store [1] [2] [3].
+My work currently shows three connected parts of that journey: a local-first portfolio platform kept in a private repository, a C++ and algorithms learning roadmap, and an academic/team web application for an electronics store [2] [3].
 
 ## What I Build
 
 | Project | What I built | What it shows | Status |
 |---|---|---|---|
-| [Mahand Developer Portfolio](https://github.com/Mohannad-Mahdi-Dev/mahand-dev-portfolio) | A local-first portfolio platform organized around a Next.js frontend, Laravel backend, and MySQL-oriented data layer. | Application boundaries, REST/API concepts, authentication and authorization concepts, documentation, and local development workflows. | Implemented locally; staging/production is not claimed [1]. |
+| Mahand Developer Portfolio (private repository) | A local-first portfolio platform organized around a Next.js frontend, Laravel backend, and MySQL-oriented data layer. | Application boundaries, REST/API concepts, authentication and authorization concepts, documentation, and local development workflows. | Implemented locally; staging/production is not claimed. |
 | [Programming Roadmap](https://github.com/Mohannad-Mahdi-Dev/programming-roadmap) | A step-by-step path from programming foundations and algorithms to C++ exercises. | Learning through practice, problem decomposition, flowcharts, and translating logic into code. | Active learning repository with completed and progressing sections [2]. |
 | [Electronic Store Project](https://github.com/Mohannad-Mahdi-Dev/electronic-store-project) | An academic/team e-commerce web application using Laravel, Blade, JavaScript, CSS/Tailwind, Vite, and MySQL. | Practical web development, MVC structure, database-backed features, and collaboration. | Academic/team project; documentation is being refined [3]. |
 
@@ -76,7 +76,7 @@ graph LR
 
 **Plain-text fallback:** Learn → Understand → Build → Solve → Debug → Improve → Repeat.
 
-The `programming-roadmap` repository reflects this progression directly: it moves from fundamentals and algorithms toward C++ implementation and repeated practice [2]. The application repositories add the next layer: architecture, APIs, data, documentation, and local verification [1] [3].
+The `programming-roadmap` repository reflects this progression directly: it moves from fundamentals and algorithms toward C++ implementation and repeated practice [2]. The public electronic-store repository adds the next layer: architecture, APIs, data, documentation, and local verification [3]. The portfolio implementation remains private.
 
 ## Engineering Mindset
 
@@ -117,6 +117,5 @@ I am still learning, but I am not learning passively. I am building the path by 
 
 ### References
 
-[1]: https://github.com/Mohannad-Mahdi-Dev/mahand-dev-portfolio "Mahand Developer Portfolio repository"
 [2]: https://github.com/Mohannad-Mahdi-Dev/programming-roadmap "Programming Roadmap repository"
 [3]: https://github.com/Mohannad-Mahdi-Dev/electronic-store-project "Electronic Store Project repository"
