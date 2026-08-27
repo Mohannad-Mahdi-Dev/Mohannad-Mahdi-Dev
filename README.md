@@ -36,11 +36,30 @@ My public work currently shows three connected parts of that journey: a local-fi
 
 The icon row is a quick visual index, not a claim of mastery. The same tools are written below so the meaning remains clear when images are unavailable.
 
+<p>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
 | Evidence level | Technologies and practices |
 |---|---|
 | **Working with** | C++, PHP/Laravel, REST API concepts, Next.js, React, TypeScript, MySQL, Git, GitHub, Docker, and technical documentation. |
 | **Practicing** | Algorithms, data-structures fundamentals, problem decomposition, application architecture, testing concepts, authentication, and authorization. |
 | **Exploring** | Python, AI/RAG, cybersecurity, blockchain, advanced software architecture, and maintainability. |
+
+## GitHub Snapshot
+
+This card is generated from public GitHub repository data by the profile repository's own GitHub Actions workflow. It is a quick activity snapshot, not a measure of skill or a substitute for project evidence.
+
+<div align="center">
+  <img src="./github-stats.svg" alt="Automatically generated public GitHub activity snapshot" />
+</div>
 
 ## How I Learn
 
