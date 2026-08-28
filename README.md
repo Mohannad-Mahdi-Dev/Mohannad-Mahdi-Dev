@@ -19,13 +19,18 @@ I am an Information Technology student building a practical foundation in softwa
 
 I value explainable implementations over impressive labels. I am still learning, but I learn through real projects, repeated practice, and deliberate improvement.
 
-## Selected Work
+## Featured Projects
 
-| Project | Focus | Evidence |
-|---|---|---|
-| Mahand Developer Portfolio *(private repository)* | Local-first portfolio platform with a Next.js frontend, Laravel backend, and MySQL-oriented data layer. | Application boundaries, REST/API concepts, authentication and authorization concepts, documentation, and local development workflows. |
-| [Programming Roadmap](https://github.com/Mohannad-Mahdi-Dev/programming-roadmap) | A structured path from programming foundations and algorithms to C++ exercises. | Problem decomposition, flowcharts, implementation practice, and continuous learning. |
-| [Electronic Store Project](https://github.com/Mohannad-Mahdi-Dev/electronic-store-project) | Academic/team e-commerce web application. | Laravel, Blade, JavaScript, Tailwind, Vite, MySQL, MVC structure, and collaboration. |
+I focus on projects that show how I think, build, document, and improve—not only the names of the technologies involved.
+
+| Project | What I built | What it demonstrates | Status |
+|---|---|---|---|
+| **Mahand Developer Portfolio** *(private repository)* | A local-first portfolio platform organized around a Next.js frontend, Laravel backend, and MySQL-oriented data layer. | Application boundaries, REST/API concepts, authentication and authorization concepts, documentation, and local development workflows. | Private implementation; production deployment is not claimed. |
+| [**Electronic Store Project**](https://github.com/Mohannad-Mahdi-Dev/electronic-store-project) | An academic/team e-commerce web application using Laravel, Blade, JavaScript, Tailwind CSS, Vite, and MySQL. | MVC structure, database-backed features, frontend integration, documentation, and collaboration. | Public academic/team project. |
+| [**Programming Roadmap**](https://github.com/Mohannad-Mahdi-Dev/programming-roadmap) | A structured path from programming foundations and algorithms to C++ implementation practice. | Problem decomposition, flowcharts, repeated practice, debugging, and translating logic into working code. | Public learning repository with ongoing progress. |
+| **Mahand Games Platform** *(private repository)* | A games publishing platform built around a Next.js and Laravel-oriented application stack. | Product thinking, web-platform architecture, and continued exploration of application development. | Private project; details are intentionally limited. |
+
+**Recruiter view:** the public repositories provide verifiable evidence, while the private projects represent work I can discuss at a high level without exposing sensitive source code or unpublished details.
 
 ## Skills & Technologies
 
