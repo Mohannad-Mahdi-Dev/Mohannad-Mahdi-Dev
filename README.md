@@ -12,6 +12,32 @@
 
 > **My signature:** I learn by understanding, building, solving, debugging, and improving—not by presenting myself as finished.
 
+<details>
+<summary><strong>العربية</strong> — اضغط لعرض الملخص العربي</summary>
+
+### نبذة مختصرة
+
+أنا طالب تقنية معلومات مهتم بهندسة البرمجيات وحل المشكلات وبناء تطبيقات عملية من خلال التعلم المستمر. أتعلم عبر الفهم، ثم البناء، ثم الاختبار والتصحيح والتحسين.
+
+### ما أبنيه
+
+أعمل على أساسيات البرمجة والخوارزميات بلغة ++C، وأطوّر فهمًا عمليًا لتطبيقات الويب وواجهات REST وقواعد البيانات باستخدام Laravel وNext.js وReact وTypeScript وMySQL. أما المواضيع الأخرى مثل الذكاء الاصطناعي وأمن التطبيقات والبلوك تشين فهي مجالات استكشاف وتعلّم حاليًا.
+
+</details>
+
+<details>
+<summary><strong>English</strong> — click to view the short profile</summary>
+
+### Short profile
+
+I am an Information Technology student focused on software engineering, problem solving, and building practical applications through continuous learning. I learn by understanding first, then building, testing, debugging, and improving.
+
+### What I build
+
+I am developing programming and algorithms foundations with C++, while building practical understanding of web applications, REST APIs, and databases with Laravel, Next.js, React, TypeScript, and MySQL. AI, application security, and blockchain remain areas I am currently exploring.
+
+</details>
+
 ## The Story Behind the Work
 
 I am building my software engineering foundation through practical projects and structured problem solving. I enjoy breaking complex problems into smaller, understandable parts, then turning the result into code that I can test, explain, and improve.
@@ -61,6 +87,20 @@ This card is generated from public GitHub repository data by the profile reposit
   <img src="./github-stats.svg" alt="Automatically generated public GitHub activity snapshot" />
 </div>
 
+### Programming Languages
+
+This chart is generated automatically from **public repository language-byte data** by the same GitHub Actions workflow. It describes repository composition, not proficiency.
+
+<div align="center">
+  <img src="./language-stats.svg" alt="Most-used programming languages in public repositories" />
+</div>
+
+| Language view | Meaning |
+|---|---|
+| **Most-used** | The languages with the largest measured byte share across public repositories. |
+| **Public data** | Private repositories are excluded from this chart. |
+| **Not a skill score** | Repository size and generated files can affect the percentages. |
+
 ## How I Learn
 
 ```mermaid
@@ -109,7 +149,23 @@ Further exploration in AI, security, and other areas
 
 ## Let's Connect
 
+<details>
+<summary><strong>العربية</strong> — اضغط لعرض قسم التواصل</summary>
+
 - [GitHub](https://github.com/Mohannad-Mahdi-Dev)
+
+إذا كنت مهتمًا بالتعاون أو بمناقشة مشروع برمجي، يسعدني التواصل. أواصل بناء خبرتي عبر المشاريع العملية والتعلم المنظم.
+
+</details>
+
+<details>
+<summary><strong>English</strong> — click to view contact text</summary>
+
+- [GitHub](https://github.com/Mohannad-Mahdi-Dev)
+
+If you are interested in collaboration or discussing a software project, feel free to connect. I am building my experience through practical projects and structured learning.
+
+</details>
 
 I am still learning, but I am not learning passively. I am building the path by working on real projects, facing problems, correcting mistakes, and repeating the process.
 
