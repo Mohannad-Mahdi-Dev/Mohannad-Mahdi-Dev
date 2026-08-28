@@ -2,106 +2,82 @@
 
 # Hi, I'm Mohannad Mahdi
 
-**Fourth-year Information Technology student focused on software engineering, problem solving, and building practical applications through continuous learning.**
+**Information Technology student focused on software engineering, problem solving, and building practical applications.**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Mohannad--Mahdi--Dev-0D1117?style=flat&logo=github&logoColor=white)](https://github.com/Mohannad-Mahdi-Dev)
+[![Profile views](https://komarev.com/ghpvc/?username=Mohannad-Mahdi-Dev&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/antonkomarev/github-profile-views-counter)
 
 </div>
 
 ![Mohannad's Engineering Loop](./engineering-loop.svg)
 
-> **My signature:** I learn by understanding, building, solving, debugging, and improving—not by presenting myself as finished.
+> **My approach:** understand the problem, build a clear solution, test it, debug it, and improve it.
 
-<details>
-<summary><strong>العربية</strong> — اضغط لعرض الملخص العربي</summary>
+## About Me
 
-### نبذة مختصرة
+I am an Information Technology student building a practical foundation in software engineering. My current work combines programming fundamentals, algorithms, web applications, REST APIs, database-backed systems, documentation, and structured problem solving.
 
-أنا طالب تقنية معلومات مهتم بهندسة البرمجيات وحل المشكلات وبناء تطبيقات عملية من خلال التعلم المستمر. أتعلم عبر الفهم، ثم البناء، ثم الاختبار والتصحيح والتحسين.
+I value explainable implementations over impressive labels. I am still learning, but I learn through real projects, repeated practice, and deliberate improvement.
 
-### ما أبنيه
+## Selected Work
 
-أعمل على أساسيات البرمجة والخوارزميات بلغة ++C، وأطوّر فهمًا عمليًا لتطبيقات الويب وواجهات REST وقواعد البيانات باستخدام Laravel وNext.js وReact وTypeScript وMySQL. أما المواضيع الأخرى مثل الذكاء الاصطناعي وأمن التطبيقات والبلوك تشين فهي مجالات استكشاف وتعلّم حاليًا.
+| Project | Focus | Evidence |
+|---|---|---|
+| Mahand Developer Portfolio *(private repository)* | Local-first portfolio platform with a Next.js frontend, Laravel backend, and MySQL-oriented data layer. | Application boundaries, REST/API concepts, authentication and authorization concepts, documentation, and local development workflows. |
+| [Programming Roadmap](https://github.com/Mohannad-Mahdi-Dev/programming-roadmap) | A structured path from programming foundations and algorithms to C++ exercises. | Problem decomposition, flowcharts, implementation practice, and continuous learning. |
+| [Electronic Store Project](https://github.com/Mohannad-Mahdi-Dev/electronic-store-project) | Academic/team e-commerce web application. | Laravel, Blade, JavaScript, Tailwind, Vite, MySQL, MVC structure, and collaboration. |
 
-</details>
+## Skills & Technologies
 
-<details>
-<summary><strong>English</strong> — click to view the short profile</summary>
-
-### Short profile
-
-I am an Information Technology student focused on software engineering, problem solving, and building practical applications through continuous learning. I learn by understanding first, then building, testing, debugging, and improving.
-
-### What I build
-
-I am developing programming and algorithms foundations with C++, while building practical understanding of web applications, REST APIs, and databases with Laravel, Next.js, React, TypeScript, and MySQL. AI, application security, and blockchain remain areas I am currently exploring.
-
-</details>
-
-## The Story Behind the Work
-
-I am building my software engineering foundation through practical projects and structured problem solving. I enjoy breaking complex problems into smaller, understandable parts, then turning the result into code that I can test, explain, and improve.
-
-My work currently shows three connected parts of that journey: a local-first portfolio platform kept in a private repository, a C++ and algorithms learning roadmap, and an academic/team web application for an electronics store [2] [3].
-
-## What I Build
-
-| Project | What I built | What it shows | Status |
-|---|---|---|---|
-| Mahand Developer Portfolio (private repository) | A local-first portfolio platform organized around a Next.js frontend, Laravel backend, and MySQL-oriented data layer. | Application boundaries, REST/API concepts, authentication and authorization concepts, documentation, and local development workflows. | Implemented locally; staging/production is not claimed. |
-| [Programming Roadmap](https://github.com/Mohannad-Mahdi-Dev/programming-roadmap) | A step-by-step path from programming foundations and algorithms to C++ exercises. | Learning through practice, problem decomposition, flowcharts, and translating logic into code. | Active learning repository with completed and progressing sections [2]. |
-| [Electronic Store Project](https://github.com/Mohannad-Mahdi-Dev/electronic-store-project) | An academic/team e-commerce web application using Laravel, Blade, JavaScript, CSS/Tailwind, Vite, and MySQL. | Practical web development, MVC structure, database-backed features, and collaboration. | Academic/team project; documentation is being refined [3]. |
-
-## My Toolkit
-
-### Working With
-
-<a href="https://github.com/tandpfun/skill-icons">
-  <img src="https://skillicons.dev/icons?i=cpp,php,laravel,nextjs,react,ts,mysql,git,github,docker&perline=5" alt="C++, PHP, Laravel, Next.js, React, TypeScript, MySQL, Git, GitHub, and Docker icons" />
-</a>
-
-The icon row is a quick visual index, not a claim of mastery. The same tools are written below so the meaning remains clear when images are unavailable.
+### Languages and Frameworks
 
 <p>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=111111" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 </p>
 
-| Evidence level | Technologies and practices |
+### Databases, Development Tools, and Workflow
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/REST_APIs-0D1117?style=flat&logo=fastapi&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=111111" alt="Linux" />
+</p>
+
+| Evidence level | Current positioning |
 |---|---|
-| **Working with** | C++, PHP/Laravel, REST API concepts, Next.js, React, TypeScript, MySQL, Git, GitHub, Docker, and technical documentation. |
-| **Practicing** | Algorithms, data-structures fundamentals, problem decomposition, application architecture, testing concepts, authentication, and authorization. |
+| **Working with** | C++, PHP/Laravel, JavaScript, TypeScript, React, Next.js, MySQL, Git, GitHub, REST API concepts, and technical documentation. |
+| **Practicing** | Algorithms, data structures, problem decomposition, application architecture, testing concepts, authentication, authorization, and containerized workflows. |
 | **Exploring** | Python, AI/RAG, cybersecurity, blockchain, advanced software architecture, and maintainability. |
 
-## GitHub Snapshot
+The badges are a visual index of technologies used or practiced in my projects. They are not claims of mastery.
 
-This card is generated from public GitHub repository data by the profile repository's own GitHub Actions workflow. It is a quick activity snapshot, not a measure of skill or a substitute for project evidence.
+## GitHub Activity
+
+The following cards are generated automatically from public GitHub data by this profile repository's GitHub Actions workflow. They show activity and repository composition, not skill level.
 
 <div align="center">
   <img src="./github-stats.svg" alt="Automatically generated public GitHub activity snapshot" />
-</div>
-
-### Programming Languages
-
-This chart is generated automatically from **public repository language-byte data** by the same GitHub Actions workflow. It describes repository composition, not proficiency.
-
-<div align="center">
   <img src="./language-stats.svg" alt="Most-used programming languages in public repositories" />
 </div>
 
-| Language view | Meaning |
-|---|---|
-| **Most-used** | The languages with the largest measured byte share across public repositories. |
-| **Public data** | Private repositories are excluded from this chart. |
-| **Not a skill score** | Repository size and generated files can affect the percentages. |
+### Profile Views
 
-## How I Learn
+The badge above displays an aggregate profile-view count only. It does not display visitor names to profile viewers. The underlying counter project documents that GitHub's image proxy prevents it from receiving a visitor's GitHub username, browser user agent, or IP address.[1]
+
+## Engineering Loop
 
 ```mermaid
 graph LR
@@ -116,12 +92,6 @@ graph LR
 
 **Plain-text fallback:** Learn → Understand → Build → Solve → Debug → Improve → Repeat.
 
-The `programming-roadmap` repository reflects this progression directly: it moves from fundamentals and algorithms toward C++ implementation and repeated practice [2]. The public electronic-store repository adds the next layer: architecture, APIs, data, documentation, and local verification [3]. The portfolio implementation remains private.
-
-## Engineering Mindset
-
-I try to understand before coding, make the problem smaller before making the solution larger, and treat debugging as part of learning rather than as a sign of failure. I prefer a complete, explainable implementation over an impressive label, and I improve a project by revisiting its structure, documentation, tests, and setup experience.
-
 ## Currently Exploring
 
 | Area | Honest description |
@@ -131,47 +101,16 @@ I try to understand before coding, make the problem smaller before making the so
 | Blockchain | Exploring the concepts and ecosystem; not claiming professional blockchain experience. |
 | Architecture and maintainability | Improving how I separate application boundaries, document decisions, and verify changes. |
 
-## My Learning Journey
-
-```text
-Programming foundations
-        ↓
-Algorithms and problem solving
-        ↓
-C++ implementation practice
-        ↓
-Web applications and REST APIs
-        ↓
-Architecture, testing, and maintainability
-        ↓
-Further exploration in AI, security, and other areas
-```
-
-## Let's Connect
-
-<details>
-<summary><strong>العربية</strong> — اضغط لعرض قسم التواصل</summary>
+## Contact and Professional Links
 
 - [GitHub](https://github.com/Mohannad-Mahdi-Dev)
+- **LinkedIn:** profile link will be added when the personal URL is available.
+- **Portfolio website:** coming soon.
 
-إذا كنت مهتمًا بالتعاون أو بمناقشة مشروع برمجي، يسعدني التواصل. أواصل بناء خبرتي عبر المشاريع العملية والتعلم المنظم.
-
-</details>
-
-<details>
-<summary><strong>English</strong> — click to view contact text</summary>
-
-- [GitHub](https://github.com/Mohannad-Mahdi-Dev)
-
-If you are interested in collaboration or discussing a software project, feel free to connect. I am building my experience through practical projects and structured learning.
-
-</details>
-
-I am still learning, but I am not learning passively. I am building the path by working on real projects, facing problems, correcting mistakes, and repeating the process.
+I am open to learning opportunities, internships, junior software engineering roles, and constructive conversations about practical software development.
 
 ---
 
 ### References
 
-[2]: https://github.com/Mohannad-Mahdi-Dev/programming-roadmap "Programming Roadmap repository"
-[3]: https://github.com/Mohannad-Mahdi-Dev/electronic-store-project "Electronic Store Project repository"
+[1]: https://github.com/antonkomarev/github-profile-views-counter "GitHub Profile Views Counter documentation"
