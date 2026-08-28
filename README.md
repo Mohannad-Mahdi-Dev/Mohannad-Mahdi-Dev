@@ -101,11 +101,21 @@ graph LR
 | Blockchain | Exploring the concepts and ecosystem; not claiming professional blockchain experience. |
 | Architecture and maintainability | Improving how I separate application boundaries, document decisions, and verify changes. |
 
+## Achievements & Certifications
+
+This section is reserved for verified achievements, certificates, and completed learning milestones. It will be updated as supporting details become available.
+
+<!-- Add verified items using this structure:
+| Achievement or certification | Issuer | Year | Verification |
+|---|---|---:|---|
+| Certificate or achievement title | Issuing organization | YYYY | [Verify](URL) |
+-->
+
 ## Contact and Professional Links
 
 - [GitHub](https://github.com/Mohannad-Mahdi-Dev)
-- **LinkedIn:** profile link will be added when the personal URL is available.
-- **Portfolio website:** coming soon.
+<!-- LinkedIn URL: add the complete profile URL here when ready. -->
+<!-- Portfolio URL: add the complete website URL here when ready. -->
 
 I am open to learning opportunities, internships, junior software engineering roles, and constructive conversations about practical software development.
 
