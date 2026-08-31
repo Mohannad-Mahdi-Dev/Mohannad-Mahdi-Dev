@@ -5,23 +5,23 @@
 <rect x="1" y="1" width="998" height="438" rx="17" fill="none" stroke="#30363D"/>
 <text x="34" y="42" fill="#8B949E" font-family="Arial,DejaVu Sans,sans-serif" font-size="18px" font-weight="400" text-anchor="start">github.com / Mohannad-Mahdi-Dev</text>
 <text x="34" y="78" fill="#F0F6FC" font-family="Arial,DejaVu Sans,sans-serif" font-size="30px" font-weight="700" text-anchor="start">Most-used languages</text>
-<text x="966" y="43" fill="#8B949E" font-family="Arial,DejaVu Sans,sans-serif" font-size="14px" font-weight="400" text-anchor="end">refreshed 2026-08-28</text>
-<rect x="34.00" y="112" width="647.78" height="18" fill="#F1E05A"/>
-<rect x="681.78" y="112" width="245.80" height="18" fill="#563D7C"/>
-<rect x="927.58" y="112" width="15.82" height="18" fill="#F05340"/>
-<rect x="943.40" y="112" width="12.19" height="18" fill="#F34B7D"/>
-<rect x="955.59" y="112" width="10.16" height="18" fill="#4F5D95"/>
-<rect x="965.75" y="112" width="2.00" height="18" fill="#3572A5"/>
+<text x="966" y="43" fill="#8B949E" font-family="Arial,DejaVu Sans,sans-serif" font-size="14px" font-weight="400" text-anchor="end">refreshed 2026-08-31</text>
+<rect x="34.00" y="112" width="647.62" height="18" fill="#F1E05A"/>
+<rect x="681.62" y="112" width="245.74" height="18" fill="#563D7C"/>
+<rect x="927.36" y="112" width="15.82" height="18" fill="#F05340"/>
+<rect x="943.18" y="112" width="12.19" height="18" fill="#F34B7D"/>
+<rect x="955.37" y="112" width="10.16" height="18" fill="#4F5D95"/>
+<rect x="965.52" y="112" width="2.00" height="18" fill="#3572A5"/>
 <circle cx="44" cy="175" r="6" fill="#F1E05A"/>
 <text x="62" y="180" fill="#F0F6FC" font-family="Arial,DejaVu Sans,sans-serif" font-size="16px" font-weight="700" text-anchor="start">JavaScript</text>
 <text x="310" y="180" fill="#C9D1D9" font-family="Arial,DejaVu Sans,sans-serif" font-size="16px" font-weight="700" text-anchor="start">69.5%</text>
 <rect x="400" y="164" width="520" height="12" rx="6" fill="#21262D"/>
-<rect x="400" y="164" width="361.42" height="12" rx="6" fill="#F1E05A"/>
+<rect x="400" y="164" width="361.33" height="12" rx="6" fill="#F1E05A"/>
 <circle cx="44" cy="211" r="6" fill="#563D7C"/>
 <text x="62" y="216" fill="#F0F6FC" font-family="Arial,DejaVu Sans,sans-serif" font-size="16px" font-weight="700" text-anchor="start">CSS</text>
 <text x="310" y="216" fill="#C9D1D9" font-family="Arial,DejaVu Sans,sans-serif" font-size="16px" font-weight="700" text-anchor="start">26.4%</text>
 <rect x="400" y="200" width="520" height="12" rx="6" fill="#21262D"/>
-<rect x="400" y="200" width="137.14" height="12" rx="6" fill="#563D7C"/>
+<rect x="400" y="200" width="137.11" height="12" rx="6" fill="#563D7C"/>
 <circle cx="44" cy="247" r="6" fill="#F05340"/>
 <text x="62" y="252" fill="#F0F6FC" font-family="Arial,DejaVu Sans,sans-serif" font-size="16px" font-weight="700" text-anchor="start">Blade</text>
 <text x="310" y="252" fill="#C9D1D9" font-family="Arial,DejaVu Sans,sans-serif" font-size="16px" font-weight="700" text-anchor="start">1.7%</text>
